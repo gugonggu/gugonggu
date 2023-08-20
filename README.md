@@ -31,6 +31,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gugonggu&layout=compact)](https://github.com/gugonggu/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gugonggu&hide=contribs,prs,issues)
-
-
+<br>
+<br>
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
+
+<div align=center>
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=footer" />
+</div>
