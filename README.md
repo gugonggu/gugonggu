@@ -32,7 +32,7 @@
 <hr>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gugonggu&layout=compact)](https://github.com/gugonggu/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gugonggu&show_icons=true&theme=gitgub_dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gugonggu&show_icons=true&theme=github_dark)
 <br>
 <br>
 
